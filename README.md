@@ -60,20 +60,28 @@ MAPBOX_TOKEN=<your Mapbox token>
 
 Usage
 Register/Login: Sign up for an account or log in.
+
 ---
+
+
 Create a Campground: Users can create campgrounds with name, price, location, image, and description.
+
 ---
 Add Reviews: Leave a review with a rating for campgrounds.
+
 ---
 Edit/Delete Campgrounds: Users can only edit or delete campgrounds they created.
+
 ---
 Mapbox Integration: View campground locations on an interactive map.
----
+
 ---
 Future Enhancements:
 Add pagination for campgrounds.
+
 ---
 Implement user profiles with activity history.
+
 ---
 Improve campground filtering by location and price.
 
