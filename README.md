@@ -43,15 +43,20 @@ To run the project locally, follow these steps:
     npm install
 3. Configure environment variables:
 Create a .env file in the root directory and add the following variables:
-
+```bash 
 DATABASE_URL=<your MongoDB URL>
 CLOUDINARY_CLOUD_NAME=<your Cloudinary cloud name>
 CLOUDINARY_KEY=<your Cloudinary API key>
 CLOUDINARY_SECRET=<your Cloudinary API secret>
 MAPBOX_TOKEN=<your Mapbox token>
+```
 
 4.Run the application locally:
-npm start
+```bash
+    npm start
+```
+
+
 
 Usage
 Register/Login: Sign up for an account or log in.
